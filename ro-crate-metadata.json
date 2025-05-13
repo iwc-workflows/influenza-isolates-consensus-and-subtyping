@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2025-01-28T20:06:11.504384",
+            "datePublished": "2025-05-13T15:46:18.271698",
             "hasPart": [
                 {
                     "@id": "influenza-consensus-and-subtyping.ga"
@@ -34,7 +34,7 @@
                 }
             ],
             "isBasedOn": "https://github.com/iwc-workflows/influenza-isolates-consensus-and-subtyping",
-            "license": "MIT",
+            "license": "AGPL-3.0-or-later",
             "mainEntity": {
                 "@id": "influenza-consensus-and-subtyping.ga"
             },
@@ -68,6 +68,12 @@
                 },
                 {
                     "@id": "#0000-0001-6897-1215"
+                },
+                {
+                    "@id": "#0009-0000-8844-2812"
+                },
+                {
+                    "@id": "#0009-0003-9935-828X"
                 }
             ],
             "name": "influenza-isolates-consensus-and-subtyping/main",
@@ -75,7 +81,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/influenza-isolates-consensus-and-subtyping",
-            "version": "0.1"
+            "version": "0.2"
         },
         {
             "@id": "#galaxy",
@@ -98,6 +104,16 @@
             "@id": "#0000-0001-6897-1215",
             "@type": "Person",
             "name": "Viktoria Isabel Schwarz"
+        },
+        {
+            "@id": "#0009-0000-8844-2812",
+            "@type": "Person",
+            "name": "Aaron Kolbecher"
+        },
+        {
+            "@id": "#0009-0003-9935-828X",
+            "@type": "Person",
+            "name": "Saim Momin"
         },
         {
             "@id": "README.md",
@@ -146,7 +162,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.26"
+            "engineVersion": ">=0.75.30"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
