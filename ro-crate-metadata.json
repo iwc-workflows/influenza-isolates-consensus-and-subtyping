@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2025-05-13T15:46:18.271698",
+            "datePublished": "2026-02-11T17:20:41.095396",
             "hasPart": [
                 {
                     "@id": "influenza-consensus-and-subtyping.ga"
@@ -64,16 +64,16 @@
             ],
             "creator": [
                 {
-                    "@id": "#0000-0002-9464-6640"
+                    "@id": "https://orcid.org/0000-0002-9464-6640"
                 },
                 {
-                    "@id": "#0000-0001-6897-1215"
+                    "@id": "https://orcid.org/0000-0001-6897-1215"
                 },
                 {
-                    "@id": "#0009-0000-8844-2812"
+                    "@id": "https://orcid.org/0009-0000-8844-2812"
                 },
                 {
-                    "@id": "#0009-0003-9935-828X"
+                    "@id": "https://orcid.org/0009-0003-9935-828X"
                 }
             ],
             "name": "influenza-isolates-consensus-and-subtyping/main",
@@ -81,7 +81,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/influenza-isolates-consensus-and-subtyping",
-            "version": "0.2"
+            "version": "0.3"
         },
         {
             "@id": "#galaxy",
@@ -96,22 +96,22 @@
             "version": "v19_09"
         },
         {
-            "@id": "#0000-0002-9464-6640",
+            "@id": "https://orcid.org/0000-0002-9464-6640",
             "@type": "Person",
             "name": "Wolfgang Maier"
         },
         {
-            "@id": "#0000-0001-6897-1215",
+            "@id": "https://orcid.org/0000-0001-6897-1215",
             "@type": "Person",
             "name": "Viktoria Isabel Schwarz"
         },
         {
-            "@id": "#0009-0000-8844-2812",
+            "@id": "https://orcid.org/0009-0000-8844-2812",
             "@type": "Person",
             "name": "Aaron Kolbecher"
         },
         {
-            "@id": "#0009-0003-9935-828X",
+            "@id": "https://orcid.org/0009-0003-9935-828X",
             "@type": "Person",
             "name": "Saim Momin"
         },
@@ -162,7 +162,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.30"
+            "engineVersion": ">=0.75.37"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
