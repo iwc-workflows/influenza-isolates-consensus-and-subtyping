@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2026-10-16T10:21:11.057918",
+            "datePublished": "2026-10-20T15:24:49.907905",
             "hasPart": [
                 {
                     "@id": "influenza-consensus-and-subtyping.ga"
@@ -81,7 +81,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/influenza-isolates-consensus-and-subtyping",
-            "version": "0.4"
+            "version": "0.5"
         },
         {
             "@id": "#galaxy",
